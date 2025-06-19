@@ -63,13 +63,11 @@ Several tools that I used:
 * Suricata
 * Python
   
-### Links to related portfolios:  
-Please have a look on other standalone portfolio that I published: 
+### Links to related portfolios:
 * Python - Cybersecurity - [Bruteforce Zipfile](https://github.com/Kwangsa19/Python-Cybersecurity-Bruteforce-zipfile)
 * SQL-Data analysis -[Netflix database analysis](https://github.com/Alucarddacoder/NetflixDB_analysis)
-* Python - Cybersecurity - [Automation Case](https://github.com/Kwangsa19/Python-Cybersecurity-Automation-Case)
-* Python - Cybersecurity - [Transaction Fraud](https://github.com/Kwangsa19/Python-Cybersecurity-Transaction-Fraud) 
-* Cybersecurity - Investigation & Risk Assessment Based on [MITRE ATT&CK Framework and Open-Source Intelligence (OSINT)](https://github.com/Kwangsa19/Cybersecurity-Investigation-Risk-Report)
+* SQL-Data analysis -[Gold product analysis](https://github.com/Alucarddacoder/gold_products_analysis)
+
 
 
 This portfolio will be updated as more certificates and projects are completed. Please visit to keep udated.Thank you for your time. For more information, please connect with me on [Linkedin](linkedin.com/in/ketmanto-wangsa/).
