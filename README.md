@@ -64,7 +64,7 @@ Several tools that I used:
 * Python
   
 ### Links to related portfolios:
-* Python - Cybersecurity - [Bruteforce Zipfile](https://github.com/Kwangsa19/Python-Cybersecurity-Bruteforce-zipfile)
+* Python - Cybersecurity - [Bruteforce Zipfile](https://github.com/Alucarddacoder/Brute_force_script)
 * SQL-Data analysis -[Netflix database analysis](https://github.com/Alucarddacoder/NetflixDB_analysis)
 * SQL-Data analysis -[Gold product analysis](https://github.com/Alucarddacoder/gold_products_analysis)
 
