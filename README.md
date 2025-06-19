@@ -66,7 +66,7 @@ Several tools that I used:
 
 
 
-This portfolio will be updated as more certificates and projects are completed. Please visit to keep udated.Thank you for your time. For more information, please connect with me on [Linkedin](linkedin.com/in/ketmanto-wangsa/).
+This portfolio will be updated as more certificates and projects are completed. Please visit to keep udated.Thank you for your time. For more information, please connect with me on [Linkedin]
 
 
 
