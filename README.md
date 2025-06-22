@@ -36,6 +36,7 @@ Roles interested in:
 * Cyber Defense Analyst
 
 ### Skills  
+### [Virtual internships](https://github.com/Alucarddacoder/Virtual_internships)
 | Projects | Skills/Knowledge Gained | 
 | :--- |:---:|
 | [1](https://www.coursera.org/learn/manage-security-risks/home/module/1) - Conduct a security audit | INFOSEC, NIST Risk Management Framework, Security Audits, NIST Cybersecurity Framework, Incident Response Playbooks, CISSP, CIA triad |
@@ -44,6 +45,8 @@ Roles interested in:
 | [4](https://www.coursera.org/learn/assets-threats-and-vulnerabilities/home/module/1) - Assets, Threats, & Vulnerabilities | Authentication, ` Vulnerability assessment`, Cryptography, Asset Classification, Threat Modelling Analysis|
 | [5](https://www.coursera.org/learn/detection-and-response/home/module/4) - Detection & Response | Incident Lifecycle, Incident Journal |
 | [6](https://www.coursera.org/learn/automate-cybersecurity-tasks-with-python/home/module/4) - Automation with Python | Computer Programming, Python Programming, Coding, PEP 8 Style Guide| 
+
+
 
 ### Tools 
 Several tools that I used: 
@@ -62,6 +65,8 @@ Several tools that I used:
 * Python - Cybersecurity - [webscraper](https://github.com/Alucarddacoder/WebScraper_python)
 * SQL-Data analysis -[Netflix database analysis](https://github.com/Alucarddacoder/NetflixDB_analysis)
 * SQL-Data analysis -[Gold product analysis](https://github.com/Alucarddacoder/gold_products_analysis)
+
+
 
 
 
