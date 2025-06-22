@@ -65,6 +65,7 @@ Several tools that I used:
 * Python - Cybersecurity - [webscraper](https://github.com/Alucarddacoder/WebScraper_python)
 * SQL-Data analysis -[Netflix database analysis](https://github.com/Alucarddacoder/NetflixDB_analysis)
 * SQL-Data analysis -[Gold product analysis](https://github.com/Alucarddacoder/gold_products_analysis)
+* Fundamentals of networking and [cybersecurity](https://github.com/Alucarddacoder/Cyber-security-fundamentals)
 
 
 
