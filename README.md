@@ -1,6 +1,6 @@
 ## TK Chaitwa-Cybersecurity_Portfolio
 
-> Modul 1-8 are inspired by Google. Please visit this link (https://coursera.org/share/61117e0e0064e754e0bfb9597b10f7c9) for further information. 
+> Modul 1-6 are inspired by Google. Please visit this link (https://coursera.org/share/61117e0e0064e754e0bfb9597b10f7c9) for further information. 
 
 𝑺𝒖𝒎𝒎𝒂𝒓𝒚: 
 * Google IT Support and Cybersecurity certificates graduate.
