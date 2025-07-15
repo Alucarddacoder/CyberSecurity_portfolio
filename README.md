@@ -68,6 +68,7 @@ Several tools that I used:
 * SQL-Data analysis -[Gold product analysis](https://github.com/Alucarddacoder/gold_products_analysis)
 * Fundamentals of networking and [cybersecurity](https://github.com/Alucarddacoder/Cyber-security-fundamentals)
 * Homelab 1 - cybersecurity - [Safeline WAF](https://github.com/Alucarddacoder/Homelab_1)
+* Homelab 2 - Cybersecurity - [Microsoft Sentinel](https://github.com/Alucarddacoder/SOC_AZURE)
 
 
 
